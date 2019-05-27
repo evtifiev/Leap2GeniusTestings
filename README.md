@@ -15,8 +15,15 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
 ## Login user and password
 
 User admin: admin@wssa.com User password: 12345
+
+
+## Style file 
+``` bash
+# Main style file
+{project_dir}/src/assets/main.css
+
+```
+
